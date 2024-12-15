@@ -1,3 +1,3 @@
 My portfolio built using bootstrap scripts
 
-![Page](assets/img/page.png)
+![Page](assets/img/portfolio/image.png)
